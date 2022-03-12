@@ -1,3 +1,4 @@
+#NESSE EXERCICIO DESENVOLVI UM PROGRAMA CAPAZ DE CALCULAR OS TERMOS DE UMA P.A PARA O USUÁRIO.
 print('GERADOR DE P.A')
 print('-=-'*10)
 termo=int(input('Digite o primeiro termo:'))
