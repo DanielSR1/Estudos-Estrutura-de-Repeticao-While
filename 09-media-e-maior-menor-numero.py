@@ -15,6 +15,6 @@ while resposta in'Ss':
                 menor=nu
     resposta=str(input('\033[34mDeseja continuar? [S/N]\033[m')).upper() .strip()[0]
 media=soma/quantidade
-print(f'\033[32ma média entre os números digitados é {media}\033[m')
+print(f'\033[32ma média entre os números digitados é {media:.1f}\033[m')
 print(f'\033[32mO maior número digitado foi {maior} e o manor número digitado foi {menor}.\033[m')
 print('ACABOU')
